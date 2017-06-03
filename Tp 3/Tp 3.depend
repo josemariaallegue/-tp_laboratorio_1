@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1496264940 source:c:\users\user\documents\facultad\programacion i\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496007140 c:\users\user\documents\facultad\programacion i\tp 3\funciones.h
+
+1496379454 source:c:\users\user\documents\facultad\programacion i\tp 3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"funciones.h"
+
+1496373748 c:\users\user\documents\facultad\programacion i\tp 3\lib.h
+
+1496373748 source:c:\users\user\documents\facultad\programacion i\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496264942 source:e:\facultad\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496007140 e:\facultad\tp 3\funciones.h
+
+1496448906 source:e:\facultad\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"lib.h"
+
+1496449230 source:e:\facultad\tp 3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"funciones.h"
+
+1496448968 e:\facultad\tp 3\lib.h
+
+1496264942 source:c:\users\jmallegue\documents\facultad\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496007140 c:\users\jmallegue\documents\facultad\tp 3\funciones.h
+
+1496434829 source:c:\users\jmallegue\documents\facultad\tp 3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"funciones.h"
+
+1496431388 c:\users\jmallegue\documents\facultad\tp 3\lib.h
+
+1496431610 source:c:\users\jmallegue\documents\facultad\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
