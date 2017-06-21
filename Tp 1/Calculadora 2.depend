@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1493231268 source:c:\users\jmallegue\documents\calculadora 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1493228800 c:\users\jmallegue\documents\calculadora 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1493231331 source:c:\users\jmallegue\documents\calculadora 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1498053240 source:c:\users\jmallegue\documents\facultad\calculadora 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1498051380 c:\users\jmallegue\documents\facultad\calculadora 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1498053293 source:c:\users\jmallegue\documents\facultad\calculadora 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1498053240 source:c:\users\jmallegue\documents\facultad\tp 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1498051380 c:\users\jmallegue\documents\facultad\tp 1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1498053293 source:c:\users\jmallegue\documents\facultad\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
