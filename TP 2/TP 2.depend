@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1493346729 source:c:\users\user\documents\facultad\programacion i\tp 2\funciones abm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"Funciones ABM.H"
+
+1493349578 c:\users\user\documents\facultad\programacion i\tp 2\funciones.h
+
+1493345598 c:\users\user\documents\facultad\programacion i\tp 2\funciones abm.h
+
+1493349759 source:c:\users\user\documents\facultad\programacion i\tp 2\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1493349869 source:c:\users\user\documents\facultad\programacion i\tp 2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
+1493347328 source:c:\users\user\documents\facultad\programacion i\tp 2\abm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
+1493347351 c:\users\user\documents\facultad\programacion i\tp 2\abm.h
+
+1493862364 source:e:\facultad\tp 2\abm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
+1493350142 e:\facultad\tp 2\funciones.h
+
+1493431282 e:\facultad\tp 2\abm.h
+
+1493862218 source:e:\facultad\tp 2\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1493431504 source:e:\facultad\tp 2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
+1498059984 source:e:\facultad\laboratorio i - programacion i\tp 2\abm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
+1493350142 e:\facultad\laboratorio i - programacion i\tp 2\funciones.h
+
+1493431282 e:\facultad\laboratorio i - programacion i\tp 2\abm.h
+
+1493863692 source:e:\facultad\laboratorio i - programacion i\tp 2\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1498059944 source:e:\facultad\laboratorio i - programacion i\tp 2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Funciones.h"
+	"ABM.h"
+
